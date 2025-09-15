@@ -9,4 +9,4 @@ A developement notebook, demonstrating the data workflow of
 2.) Parsing, organising, and cleaning the tabular data into discrete files.
 3.) Creating the Gantt Chart visualisation to monitor the progress of different timelines.
 
-[View rendered notebook](https://nbviewer.org/github/malcolmiscalm/TC-Visualisation/blob/main/TC-Visualisation.ipynb)https://github.com/malcolmiscalm/TC-Visualisation/edit/main/README.md
+[View rendered notebook](https://nbviewer.org/github/malcolmiscalm/TC-Visualisation/blob/main/TC-Visualisation.ipynb)
